@@ -1,2 +1,2 @@
-# Portfolio-Visulization
+# Portfolio-Visualization
 Portfolio Stock Visualizer using Matplotlib
